@@ -1,3 +1,3 @@
 # LabSerGen2
-Scrip para organizar oligos
-La finalidad de este script es que los estudiantes del laboratorio enlisten los oligos de los proyectos relacionados con metabolismo de fosforo  
+Scrip crear carpetas
+La finalidad de este script es que s haga una lista los estudiantes del laboratorio para enlisten los oligos de los proyectos relacionados con metabolismo de fosforo  
